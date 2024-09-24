@@ -345,6 +345,7 @@ body {
   gap: 3rem;
   background-color: var(--font-color-title);
   scroll-margin: 4rem;
+  padding-top: 2rem;
 }
 
 .contact-information {
